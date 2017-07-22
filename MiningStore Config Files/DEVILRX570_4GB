@@ -10,6 +10,6 @@ proxypool2 pool-eu.ethosdistro.com:5001
 globalcore 1500
 globalmem 2100
 globalfan 90
-globalpowertune 20
+globalpowertune 2
 autoreboot true
 globaldriver amdgpu

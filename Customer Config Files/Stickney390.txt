@@ -13,4 +13,4 @@ globalfan 90
 globalpowertune 20
 autoreboot true
 globaldriver amdgpu
-claymore=flags -r 1 -mode 0 -gser 2 -erate 0 -dbg -1 -dpool stratum+tcp://dcr.suprnova.cc:2252 - dwal omtest.ethvent -dpsw x -dcri 10
+claymore=flags -r 1 -mode 0 -gser 2 -erate 0 -dbg -1 -dpool stratum+tcp://dcr.suprnova.cc:2252 -dwal omtest.ethvent -dpsw x -dcri 10

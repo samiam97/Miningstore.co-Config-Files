@@ -7,10 +7,10 @@ stratumproxy enabled
 proxywallet 0xca38f6F9a7D051820c1024D295c016628f26659a
 proxypool1 pool-usa.ethosdistro.com:5001
 proxypool2 pool-eu.ethosdistro.com:5001
-globalcore 1440
-globalmem 2130
+globalcore 1345
+globalmem 2150
 #globalpowertune 7
 globalfan 90
 autoreboot true
 globaldriver amdgpu
-vlt 931a2c .9 .9 .9 .9 .9 .9 .9 .9
+vlt 931a2c .90 .90 .90 .90 .90 .90 .90 .90

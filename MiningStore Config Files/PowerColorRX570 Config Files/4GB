@@ -13,3 +13,4 @@ globalmem 2130
 globalfan 90
 autoreboot true
 globaldriver amdgpu
+vlt 931a2c .9 .9 .9 .9 .9 .9 .9 .9

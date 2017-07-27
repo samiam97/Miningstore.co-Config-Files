@@ -9,8 +9,8 @@ proxypool1 pool-usa.ethosdistro.com:5001
 proxypool2 pool-eu.ethosdistro.com:5001
 globalcore 1440
 globalmem 2130
-#globalpowertune 7
+globalpowertune 7
 globalfan 90
 autoreboot true
 globaldriver amdgpu
-vlt 931a2c 1.10 1.10 1.10 1.10 1.10 1.10 1.10 1.10
+#vlt 931a2c 1.10 1.10 1.10 1.10 1.10 1.10 1.10 1.10

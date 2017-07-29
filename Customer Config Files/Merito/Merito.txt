@@ -1,7 +1,7 @@
 globalminer claymore-zcash
 maxgputemp 97
 stratumproxy enabled
-proxywallet t1dX4Fq2gyzSKUuTRQTFkgEDdhvNu6GWJDi.35
+proxywallet t1dX4Fq2gyzSKUuTRQTFkgEDdhvNu6GWJDi
 proxypool1 zec-us-west1.nanopool.org:6666
 proxypool2 zec-us-east1.nanopool.org:6666
 globalfan 90

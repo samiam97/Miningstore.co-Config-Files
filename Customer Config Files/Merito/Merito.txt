@@ -7,4 +7,3 @@ proxypool2 zec-us-east1.nanopool.org:6666
 globalfan 90
 globalpowertune 50
 autoreboot true
-

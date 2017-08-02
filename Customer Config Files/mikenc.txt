@@ -9,4 +9,4 @@ proxypool2 us2.ethermine.org:4444
 globalfan 90
 globalpowertune 20
 autoreboot true
-custompanel mikenc
+custompanel mikenc918600

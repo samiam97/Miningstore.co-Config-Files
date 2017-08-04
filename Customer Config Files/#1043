@@ -11,5 +11,5 @@ globalcore 1300
 globalmem 2000
 globalfan 90
 autoreboot true
-custompanel 1043MSsecret
+custompanel ms1043s3cr3t
 globaldriver amdgpu

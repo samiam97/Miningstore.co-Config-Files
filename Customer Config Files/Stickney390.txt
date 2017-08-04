@@ -7,10 +7,10 @@ stratumproxy enabled
 proxywallet 0x6c3388273c6B2DAA63bD57Bfa722016828E97496
 proxypool1 us1.ethermine.org:4444
 proxypool2 us2.ethermine.org:4444
-globalmem 1620
-globalcore 1180
+#globalmem 1620
+#globalcore 1180
 globalfan 90
-globalpowertune 50
+#globalpowertune 50
 autoreboot true
 globaldriver amdgpu
 custompanel 11bd20

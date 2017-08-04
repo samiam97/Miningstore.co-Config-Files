@@ -1,0 +1,15 @@
+#globalminer zcash-miner
+globalminer claymore
+#globalminer ethminer
+#globalminer sgminer-gm
+maxgputemp 97
+stratumproxy enabled
+proxywallet 0xed7deb88e446339bd6a0b318bfb6dc47936a9cdf
+proxypool1 useast.alpereum.ch:3002
+proxypool2 uswest.alpereum.ch:3002
+globalcore 1300
+globalmem 2000
+globalfan 90
+autoreboot true
+custompanel 1043MS
+globaldriver amdgpu

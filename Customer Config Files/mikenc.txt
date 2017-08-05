@@ -6,6 +6,8 @@ stratumproxy enabled
 proxywallet 0x825Ede221581F42fA2F0712Ad4A3b1919D01c43e
 proxypool1 us1.ethermine.org:4444
 proxypool2 us2.ethermine.org:4444
+globalcore 1350
+globalmem 2200
 globalfan 90
 globalpowertune 20
 autoreboot true

@@ -9,7 +9,8 @@ proxypool1 pool-usa.ethosdistro.com:5001
 proxypool2 pool-eu.ethosdistro.com:5001
 globalcore 1415
 globalmem 2000
-globalfan 70
+globalfan 90
 autoreboot true
+globalpowertune 6
 globaldriver amdgpu
 custompanel 1045wis3cr3t

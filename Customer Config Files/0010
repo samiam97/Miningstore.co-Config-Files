@@ -1,0 +1,15 @@
+#globalminer zcash-miner
+globalminer claymore
+#globalminer ethminer
+#globalminer sgminer-gm
+maxgputemp 97
+stratumproxy enabled
+proxywallet 0x6f4e5D931632652E1e29495C914753Aa9f2e7932
+proxypool1 eth-us-east1.nanopool.org:9999
+proxypool2 eth-us-west1.nanopool.org:9999
+globalfan 90
+globalcore 1300
+globalmem 2000
+autoreboot true
+globaldriver amdgpu
+custompanel 1010ads3cr3t

@@ -9,7 +9,7 @@ proxypool1 eth-us-east1.nanopool.org:9999
 proxypool2 eth-us-west1.nanopool.org:9999
 globalfan 90
 globalcore 1300
-globalmem 2050
+globalmem 2000
 autoreboot true
 globaldriver amdgpu
 custompanel 1038ars3cr3t

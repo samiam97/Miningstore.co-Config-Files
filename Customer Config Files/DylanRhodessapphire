@@ -13,4 +13,4 @@ globalfan 60
 #globalpowertune 4
 autoreboot true
 globaldriver amdgpu
-custompanel eth420
+custompanel eth420s3cr3t

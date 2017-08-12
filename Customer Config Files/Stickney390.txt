@@ -13,6 +13,5 @@ globalfan 90
 #globalpowertune 50
 autoreboot true
 globaldriver amdgpu
-custompanel 11bd20
 #pwr 488948 50 50 50 50 50 50
 #vlt 488948 100 100 100 100 100 100

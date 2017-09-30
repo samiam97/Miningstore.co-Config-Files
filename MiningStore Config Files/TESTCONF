@@ -4,12 +4,13 @@ globalminer claymore
 #globalminer sgminer-gm
 maxgputemp 97
 stratumproxy enabled
-proxywallet 0xca38f6F9a7D051820c1024D295c016628f26659a
-proxypool1 pool-usa.ethosdistro.com:5001
-proxypool2 pool-eu.ethosdistro.com:5001
+proxywallet d2d24df1b0b35c5cc00d53415fce9a3b00637926 
+proxypool1 eth-us-east1.nanopool.org:9999
+proxypool2 eth-us-west1.nanopool.org:9999
 globalcore 1200
 globalmem 2150
-globalfan 90
+globalfan 100
 globalpowertune 2
 autoreboot true
 globaldriver amdgpu
+custompanel lcodta123456

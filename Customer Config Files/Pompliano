@@ -1,12 +1,12 @@
-globalminer zcash-miner
+globalminer ewbf-zcash
 #globalminer claymore
 #globalminer ethminer
 #globalminer sgminer-gm
 maxgputemp 97
 stratumproxy enabled
-proxywallet 0xca38f6F9a7D051820c1024D295c016628f26659a
-proxypool1 zec-us1.dwarfpool.com:5001
-proxypool2 zec-eu1.dwarfpool.com:5001
+proxywallet t1Tgh8joEVCZ7LKSVTMPpzZiGnGtHDRiHvc
+proxypool1 zec-us-east1.nanopool.org:6666
+proxypool2 zec-us-west1.nanopool.org:6666
 globalmem 9500
 globalfan 90
 autoreboot true

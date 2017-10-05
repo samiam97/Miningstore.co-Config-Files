@@ -1,4 +1,4 @@
-globalminer ewbf-zcash
+globalminer zcash-miner
 #globalminer claymore
 #globalminer ethminer
 #globalminer sgminer-gm

@@ -7,8 +7,8 @@ stratumproxy enabled
 proxywallet t1Tgh8joEVCZ7LKSVTMPpzZiGnGtHDRiHvc
 proxypool1 zec-us-east1.nanopool.org:6666
 proxypool2 zec-us-west1.nanopool.org:6666
-globalcore 100
-globalmem 300
+#globalcore 100
+globalmem 4400
 globalfan 90
 autoreboot true
 custompanel anexios3cr3t

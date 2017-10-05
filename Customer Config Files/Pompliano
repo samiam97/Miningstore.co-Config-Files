@@ -1,5 +1,5 @@
-#globalminer zcash-miner
-globalminer claymore
+globalminer zcash-miner
+#globalminer claymore
 #globalminer ethminer
 #globalminer sgminer-gm
 maxgputemp 97
